@@ -10,4 +10,6 @@ Setup:
 6. pip install -r requirements.txt
 7. navigate to /ComfyUI-to-Python-Extension
 8. download zip or git pull https://github.com/All-About-AI-YouTube/speech-to-image.git
-9. 
+9. adjust parameters in workflow_api2.py (see video)
+10. set your save image path in display.py
+11. 
