@@ -1,6 +1,8 @@
 # speech-to-image
 Speech-to-Image
 
+Video Tutorial: https://youtu.be/uNfiu5k6RQk
+
 Setup:
 1. Download and install comfyui: https://github.com/comfyanonymous/ComfyUI
 2. pip install faster-whisper (https://github.com/SYSTRAN/faster-whisper)
