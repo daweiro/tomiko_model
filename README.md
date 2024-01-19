@@ -13,4 +13,4 @@ Setup:
 9. pip install torch, pyaudio (https://pytorch.org/get-started/locally/)
 10. adjust parameters in workflow_api2.py (see video)
 11. set your save image path in display.py
-12. 
+12. run workflow_api2.py
