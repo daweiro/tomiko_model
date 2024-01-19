@@ -4,7 +4,7 @@ import os
 app = Flask(__name__)
 
 # Directory where images are stored
-IMAGE_FOLDER = "C:/Users/kris_/Python/comf/ComfyUI_windows_portable/ComfyUI/output"
+IMAGE_FOLDER = "YOUR SAVED IMG FOLDER"
 
 # Global variable to keep track of the current latest image
 current_latest_image = None
