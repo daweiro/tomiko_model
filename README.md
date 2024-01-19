@@ -11,6 +11,9 @@ Setup:
 7. navigate to /ComfyUI-to-Python-Extension
 8. download zip or git pull https://github.com/All-About-AI-YouTube/speech-to-image.git
 9. pip install torch, pyaudio (https://pytorch.org/get-started/locally/)
-10. adjust parameters in workflow_api2.py (see video)
-11. set your save image path in display.py
-12. run workflow_api2.py
+10. download a SD model (ex: https://civitai.com/models/139562/realvisxl-v30-turbo?modelVersionId=272378)
+11. place the model in /comfyui/models/checkpoints
+12. adjust parameters in workflow_api2.py (see video)
+13. set your SD model name in line 157
+14. set your save image path in display.py
+15. run workflow_api2.py
