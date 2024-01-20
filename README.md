@@ -11,7 +11,7 @@ Setup:
 5. Navigate to the ComfyUI-to-Python-Extension folder and install requirements
 6. pip install -r requirements.txt
 7. navigate to /ComfyUI-to-Python-Extension
-8. download zip or git pull https://github.com/All-About-AI-YouTube/speech-to-image.git
+8. download zip or git clone https://github.com/All-About-AI-YouTube/speech-to-image.git
 9. pip install torch, pyaudio (https://pytorch.org/get-started/locally/)
 10. download a SD model (ex: https://civitai.com/models/139562/realvisxl-v30-turbo?modelVersionId=272378)
 11. place the model in /comfyui/models/checkpoints
